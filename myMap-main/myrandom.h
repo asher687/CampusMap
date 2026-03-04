@@ -10,9 +10,6 @@ using namespace std;
 bool useAutograder = true;
 int seed = 15;
 /*
- * Function: randomInteger
- * Usage: int n = randomInteger(low, high);
- * ----------------------------------------
  * Returns a random integer in the range low to
  * high, inclusive.
  */
